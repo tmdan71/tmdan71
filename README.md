@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**tmdan71/tmdan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tran Minh Dan 👋
 
-Here are some ideas to get you started:
+Electronics and Telecommunications Engineering student interested in Embedded Systems, IoT, and Hardware Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+- Embedded systems development
+- ESP32 and microcontrollers
+- IoT system design
+- PCB design and hardware integration
+- Mobile applications with Flutter
+
+## Featured Project
+Environmental Monitoring System for Food Storage Warehouse
+
+Technologies used:
+- ESP32
+- Environmental sensors
+- Flutter mobile applications
+- PCB design
